@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1586716513 source:c:\users\dell\desktop\programmes c\files\files.c
+	<stdio.h>
+	<stdlib.h>
+	"head_files.h"
+
+1586716571 c:\users\dell\desktop\programmes c\files\head_files.h
+
+1586734431 source:c:\users\dell\desktop\programmes c\files\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head_files.h"
+	"head_piles.h"
+
+1586734041 c:\users\dell\desktop\programmes c\files\head_piles.h
+
+1586734061 source:c:\users\dell\desktop\programmes c\files\piles.c
+	<stdio.h>
+	<stdlib.h>
+	"head_piles.h"
+
+1586716513 source:c:\users\dell\desktop\programmes c\pfilesetpiles\files.c
+	<stdio.h>
+	<stdlib.h>
+	"head_files.h"
+
+1586716571 c:\users\dell\desktop\programmes c\pfilesetpiles\head_files.h
+
+1586734431 source:c:\users\dell\desktop\programmes c\pfilesetpiles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head_files.h"
+	"head_piles.h"
+
+1586734041 c:\users\dell\desktop\programmes c\pfilesetpiles\head_piles.h
+
+1586734460 source:c:\users\dell\desktop\programmes c\pfilesetpiles\piles.c
+	<stdio.h>
+	<stdlib.h>
+	"head_piles.h"
+
+1586716514 source:c:\users\dell-u\desktop\prog c 1\pfilesetpiles\files.c
+	<stdio.h>
+	<stdlib.h>
+	"head_files.h"
+
+1586716572 c:\users\dell-u\desktop\prog c 1\pfilesetpiles\head_files.h
+
+1586734462 source:c:\users\dell-u\desktop\prog c 1\pfilesetpiles\piles.c
+	<stdio.h>
+	<stdlib.h>
+	"head_piles.h"
+
+1586734042 c:\users\dell-u\desktop\prog c 1\pfilesetpiles\head_piles.h
+

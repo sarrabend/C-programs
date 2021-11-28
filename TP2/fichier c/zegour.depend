@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590832099 source:c:\users\dell\desktop\prgrms\zegour\main.c
+	<stdio.h>
+	<stdlib.h>
+

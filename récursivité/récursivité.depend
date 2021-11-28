@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587739395 source:c:\users\dell\desktop\programmes c\récursivité\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+
+1587739199 c:\users\dell\desktop\programmes c\récursivité\head.h
+
+1587739745 source:c:\users\dell\desktop\programmes c\récursivité\fcts.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+

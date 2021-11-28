@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1586125700 source:c:\users\dell\desktop\programmes c\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"headers1.h"
+	"headers2.h"
+
+1586174119 c:\users\dell\desktop\programmes c\tp1\headers1.h
+
+1586174119 c:\users\dell\desktop\programmes c\tp1\headers2.h
+
+1586174119 source:c:\users\dell\desktop\programmes c\tp1\functions1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"headers1.h"
+
+1586709581 source:c:\users\dell\desktop\programmes c\tp1\functions2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"headers2.h"
+
+1589471574 source:c:\users\dell\desktop\tp1\functions1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"headers1.h"
+
+1587051286 c:\users\dell\desktop\tp1\headers1.h
+
+1589496501 source:c:\users\dell\desktop\tp1\functions2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"headers2.h"
+	"headers1.h"
+
+1587320326 c:\users\dell\desktop\tp1\headers2.h
+
+1589495652 source:c:\users\dell\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"headers1.h"
+	"headers2.h"
+
+1613853707 source:c:\users\dell-u\desktop\prog c 1\tp1\functions1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"headers1.h"
+
+1587047688 c:\users\dell-u\desktop\prog c 1\tp1\headers1.h
+
+1613853707 source:c:\users\dell-u\desktop\prog c 1\tp1\functions2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"headers2.h"
+	"headers1.h"
+
+1587316728 c:\users\dell-u\desktop\prog c 1\tp1\headers2.h
+
+1613853818 source:c:\users\dell-u\desktop\prog c 1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+	"headers1.h"
+	"headers2.h"
+

@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1605646355 source:c:\users\dell\desktop\programmes c\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+	<conio.h>
+	<ctype.h>
+	<time.h>
+
+1605644871 c:\users\dell\desktop\programmes c\pendu\headers.h
+
+1605646700 source:c:\users\dell\desktop\programmes c\pendu\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"headers.h"
+
+1605646702 source:c:\users\dell-u\desktop\prog c 1\pendu\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<time.h>
+	"headers.h"
+
+1605644872 c:\users\dell-u\desktop\prog c 1\pendu\headers.h
+
+1605646356 source:c:\users\dell-u\desktop\prog c 1\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+	<conio.h>
+	<ctype.h>
+	<time.h>
+

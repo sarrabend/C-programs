@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591055081 source:c:\users\dell\desktop\programmes c\compteur score scrabble\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
